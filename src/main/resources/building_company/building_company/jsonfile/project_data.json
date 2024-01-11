@@ -1,0 +1,42 @@
+{
+  "project": {
+    "project_id": 1,
+    "project_name": "Project 1",
+    "start_date": "2023-01-01",
+    "end_date": "2023-06-30",
+    "department": {
+      "department_id": 1,
+      "department_name": "Department A",
+      "customers": [
+        {
+          "customer_id": 1,
+          "first_name": "deniz",
+          "last_name": "gunduz",
+          "email": "mail",
+          "phone": "1234567890",
+          "address": {
+            "address_id": 1,
+            "street": "warsaw",
+            "city": "warsaw",
+            "state": "ww",
+            "postal_code": "101"
+          }
+        },
+        {
+          "customer_id": 2,
+          "first_name": "gunduzz",
+          "last_name": "denuzz",
+          "email": "maill",
+          "phone": "9876210",
+          "address": {
+            "address_id": 2,
+            "street": "ww",
+            "city": "ww",
+            "state": "ww",
+            "postal_code": "9000"
+          }
+        }
+      ]
+    }
+  }
+}

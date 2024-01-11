@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <employeeId>1</employeeId>
+        <firstName>deniz</firstName>
+        <lastName>gunduz</lastName>
+        <email>denizgmail</email>
+        <phone>1234</phone>
+        <hireDate>2023-01-01</hireDate>
+        <salary>5000</salary>
+        <jobTitle>boss</jobTitle>
+        <departmentId>1</departmentId>
+        <managerId>0</managerId>
+    </employee>
+    <employee>
+        <employeeId>2</employeeId>
+        <firstName>gunduz</firstName>
+        <lastName>deniz</lastName>
+        <email>gmail.com</email>
+        <phone>123123</phone>
+        <hireDate>2023-02-01</hireDate>
+        <salary>4000</salary>
+        <jobTitle>Developer</jobTitle>
+        <departmentId>2</departmentId>
+        <managerId>1</managerId>
+    </employee>
+    <!-- Add more employee  -->
+</employees>
